@@ -18,15 +18,7 @@ Responsive Design: Optimized for seamless viewing across all devices (desktop, t
 🛠️ Technologies Used
 
 This portfolio is being built using the following technologies:
-
 Frontend: HTML5, CSS3
-
-🏗️ Getting Started (For Developers)
-
-If you're interested in running this project locally (once it's more complete), follow these steps:
-Clone the repository:
-git clone https://github.com/DevNexus09/Personal-Portfolio.git
-
 
 📧 Contact
 
